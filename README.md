@@ -22,10 +22,10 @@ A simple AI-powered language translation web application built with Python and S
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/saraelzain568-dev/CodeAlpha_LanguageTranslationTool.git
+git clone https://github.com/saraelzain568-dev/codealpha_tasks.git
 
 2. Open the project folder:
-cd CodeAlpha_LanguageTranslationTool
+cd AI Language Translator
 
 3. Install the required libraries:
 python -m pip install -r requirements.txt
