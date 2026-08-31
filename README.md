@@ -28,9 +28,9 @@ An AI-powered FAQ chatbot that processes user questions and finds the most relev
 * TF-IDF
 * Cosine Similarity
 
-### Task 3 — Object Detection
+### Task 4 — Object Detection
 
-An object detection project designed to identify and detect objects in images using computer vision techniques.
+An object detection and tracking project designed to identify and track objects using computer vision techniques.
 
 **Technologies:**
 
@@ -38,6 +38,7 @@ An object detection project designed to identify and detect objects in images us
 * OpenCV
 * Computer Vision
 * Object Detection
+* Object Tracking
 
 ## ⚙️ Setup
 
@@ -72,8 +73,8 @@ The application will open in your browser.
 codealpha_tasks/
 │
 ├── Task1_LanguageTranslation/
-├── Task2_FAQChatbot/
-├── Task3_ObjectDetection/
+├── Task2_FAQ_Chatbot/
+├── Task4_ObjectDetection/
 │
 ├── README.md
 ├── LICENSE
